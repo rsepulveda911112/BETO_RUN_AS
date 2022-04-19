@@ -1,0 +1,7 @@
+simpletransformers==0.63.3
+transformers==4.12.5
+pandas
+tqdm
+matplotlib
+torch===1.10.2
+tensorboardX
